@@ -14,3 +14,7 @@ public class SortListExample {
     }
 }
 
+javac SortListExample.java
+
+java SortListExample
+
